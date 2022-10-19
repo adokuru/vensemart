@@ -1613,6 +1613,7 @@ header {
 .single-service .single-inner .started a span i {
   position: relative;
   left: -6px;
+  top: -2px;
   font-size: 14px;
   transition: all 0.5s ease-out 0s;
 }
@@ -1746,7 +1747,7 @@ header {
 .single-shop .shop-inner a span i {
   position: relative;
   left: -6px;
-  top: 2px;
+  top: -2px;
   font-size: 14px;
   transition: all 0.5s ease-out 0s;
 }
