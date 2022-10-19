@@ -7759,3 +7759,23 @@ footer .line-shape {
   color: #696969;
   line-height: 28px;
 }
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
+.home5-download-btn {
+  background: url(../mock/home3-download-btn1.png);
+  margin-right: 20px;
+  height: 50px;
+  width: 158px;
+  display: inline-block;
+}
+
+.home5-download-btn2 {
+  background: url(../mock/home3-download-btn12.png);
+  height: 50px;
+  width: 158px;
+  display: inline-block;
+}
