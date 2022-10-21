@@ -2337,7 +2337,7 @@ header {
   top: 0;
   height: 100%;
   width: 40%;
-  background-color: #111;
+  background-color: #fff;
   transform: skewX(10deg);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2383,7 +2383,7 @@ footer .line-shape {
 .footer-widget p {
   font-family: rubik, sans-serif;
   font-size: 16px;
-  color: #fff;
+  color: #111;
 }
 .footer-widget .request-btn {
   margin-top: 30px;
@@ -2534,7 +2534,7 @@ footer .line-shape {
   font-family: rubik, sans-serif;
   font-size: 14px;
   display: block;
-  color: #fff;
+  color: #111;
 }
 .footer-bottom .copy-right span a {
   display: inline-block;
@@ -2548,7 +2548,7 @@ footer .line-shape {
   }
 }
 .footer-bottom .copy-right span a:hover {
-  color: #fff;
+  color: #003399;
 }
 .footer-bottom .footer-social-media {
   text-align: right;
