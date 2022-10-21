@@ -1465,6 +1465,7 @@ header {
   border-radius: 10px 10px 0 0;
   width: 100%;
   transition: all 0.5s ease-out 0s;
+  min-height: 280px;
 }
 .single-service .thumb .tag {
   position: absolute;
